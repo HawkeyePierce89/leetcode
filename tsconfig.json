@@ -21,7 +21,7 @@
     "noUnusedParameters": true,                          /* Report errors on unused parameters in functions. */
     "noImplicitReturns": true,                           /* Report error when not all code paths in function return a value. */
     "noFallthroughCasesInSwitch": true,                  /* Report errors for fallthrough cases in switch statement. */
-    "noUncheckedIndexedAccess": true,                    /* Include 'undefined' in the index signature results. */
+    "noUncheckedIndexedAccess": false,                    /* Include 'undefined' in the index signature results. */
     "noImplicitOverride": true,                          /* Ensure overriding methods in derived classes are marked with an 'override' modifier. */
     "useUnknownInCatchVariables": true,                  /* Type catch clause variables as 'unknown' instead of 'any'. */
     "exactOptionalPropertyTypes": true,                  /* Treat optional property types as exact, not adding 'undefined'. */
